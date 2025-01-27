@@ -1,3 +1,24 @@
+
+![image](https://github.com/user-attachments/assets/528d5443-3e17-46a4-a97c-b49fbd6e9475)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Credit-Card-Approval-Prediction-
 This project builds a machine learning model to predict credit card approval decisions using applicant demographics and credit history. 
 It involves data preprocessing, exploratory analysis, and classification modeling to assist financial institutions in decision-making.
